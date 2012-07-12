@@ -1,0 +1,4 @@
+sfDoctrinePayzenTransId:
+  sf_doctrine_payzen_trans_id:
+    current_id: 1
+    last_reset: '<?php echo date('Y-m-d H:i:s') ?>'
