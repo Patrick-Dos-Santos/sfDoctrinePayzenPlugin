@@ -1,7 +1,7 @@
 <?php
 
 /**
- * PluginsfDoctrinePayzenPayment_2_8 form.
+ * PluginsfDoctrinePayzenPayment_2_8 form filter.
  *
  * @package    sfDoctrinePayzenPlugin
  * @subpackage filter

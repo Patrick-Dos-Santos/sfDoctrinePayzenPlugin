@@ -1,7 +1,7 @@
 <?php
 
 /**
- * PluginsfDoctrinePayzenTransId form.
+ * PluginsfDoctrinePayzenTransId form filter.
  *
  * @package    sfDoctrinePayzenPlugin
  * @subpackage filter
